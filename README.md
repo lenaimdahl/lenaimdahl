@@ -1,5 +1,4 @@
 - 👋 Hi, I'm **Lena**
 - 👀 I'm interested in **art**, **programming and design**
-- 🌱 I'm currently learning **JavaScript, HTML and CSS**
-- 👩‍💻 I'm working at the [**DHM**](https://www.dhm.de/) and [**Naturkundemuseum**](https://www.museumfuernaturkunde.berlin/en) in Berlin
+- 🌱 I'm currently learning **React** and **Express.js** through [Ironhack](https://www.ironhack.com)
 - 👩‍🎓 Find me on Codewars: [![Codewars Badge](https://www.codewars.com/users/lenaimdahl/badges/micro)](https://www.codewars.com/users/lenaimdahl)
