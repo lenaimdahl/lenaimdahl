@@ -10,4 +10,5 @@ Check out:
     Go to [Galaxia app] (https://galaxia.adaptable.app/)
 - JavaScript Harry Potter Chamber of Secrets Quiz Game:
     Go to [Harry Potter Quiz] (https://github.com/lenaimdahl/harry-potter-quiz)
-  - 👩‍🎓 Find me on Codewars: [![Codewars Badge](https://www.codewars.com/users/lenaimdahl/badges/micro)](https://www.codewars.com/users/lenaimdahl)
+  
+- 👩‍🎓 Find me on Codewars: [![Codewars Badge](https://www.codewars.com/users/lenaimdahl/badges/micro)](https://www.codewars.com/users/lenaimdahl)
