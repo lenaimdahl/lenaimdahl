@@ -6,7 +6,7 @@ Check out:
 
 - My full stack collaboration project using React for frontend and Express and MongoDB for backend:
     Go to [FunFair app](https://funfair.netlify.app/)
-- A web app for exploring and interacting with NASA's space images.d:
+- A web app for exploring and interacting with NASA's space images:
     Go to [Galaxia app](https://galaxia.adaptable.app/)
 - JavaScript Harry Potter Chamber of Secrets Quiz Game:
     Go to [Harry Potter Quiz](https://github.com/lenaimdahl/harry-potter-quiz)
