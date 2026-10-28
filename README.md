@@ -3,7 +3,7 @@
 - 🌱 I'm currently working with **React**, **TypeScript** and **NestJS** and learning **Go**
 
 Check out:
-- My own full stack project using React, Vite and Tailwind for frontend and Go and Postgres for backend: Go to [Marginalia app](https://github.com/lenaimdahl/marginalia)
+- My own full stack project with small showcases using React, Vite and Tailwind for frontend and Go and Postgres for backend: Go to [Atelier app](https://github.com/lenaimdahl/atelier) 
     
 - My full stack collaboration project using React, Vite and Material UI (MUI) for frontend and NestJS and MongoDB for backend:
     Go to [JustInCase app](https://justincase.lenaimdahl.de/)
